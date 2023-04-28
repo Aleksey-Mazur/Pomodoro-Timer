@@ -1,4 +1,4 @@
-const PauseButton = props => {
+function PauseButton(props) {
   return (
     <button {...props}>
       <svg
@@ -15,6 +15,6 @@ const PauseButton = props => {
       </svg>
     </button>
   );
-};
+}
 
 export default PauseButton;

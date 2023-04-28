@@ -1,4 +1,4 @@
-const PlayButton = props => {
+function PlayButton(props) {
   return (
     <button {...props}>
       <svg
@@ -15,6 +15,6 @@ const PlayButton = props => {
       </svg>
     </button>
   );
-};
+}
 
 export default PlayButton;
