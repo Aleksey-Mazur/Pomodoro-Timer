@@ -1,3 +1,8 @@
+:root {
+  --red: #f54e4e;
+  --green: #4aec8c;
+}
+
 body {
   background-color: #30384b;
   color: #eee;
@@ -32,4 +37,10 @@ button.with-text svg {
   width: 2.25rem;
   float: left;
   margin-right: 0.3rem;
+}
+
+label {
+  display: block;
+  margin: 1.2rem 0 0.6rem;
+  text-transform: capitalize;
 }
