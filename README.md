@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 </details>
+
+Small and simple application with Pomodoro Timer functionality to boost your efficiency. You can set individual time intervals with Settings menu. This app is built using React (Hooks: useState, useContext, useEffect, useRef).<br />
+![pomodoro-scr-01](https://user-images.githubusercontent.com/103335620/236700112-05defcc9-f562-452d-8b8d-9c94952916f4.png)
+![pomodoro-scr-02](https://user-images.githubusercontent.com/103335620/236700120-a7272dcf-b711-40b8-b6ad-6e97919ed600.png)
